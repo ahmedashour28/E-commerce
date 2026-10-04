@@ -126,7 +126,7 @@ CORS allows `http://localhost:5173` (typical Vite frontend). Change the policy i
 ## Getting started
 
 ```bash
-git clone https://github.com/dabananda/ECommerce.git
+git clone https://github.com/ahmedashour28/E-commerce.git
 cd ECommerce
 dotnet restore
 ```
